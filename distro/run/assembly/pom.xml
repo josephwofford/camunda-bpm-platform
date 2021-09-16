@@ -99,7 +99,7 @@
         <configuration>
           <appendAssemblyId>false</appendAssemblyId>
           <outputDirectory>target/</outputDirectory>
-          <tarLongFileMode>gnu</tarLongFileMode>
+          <tarLongFileMode>posix</tarLongFileMode>
         </configuration>
         <executions>
           <execution>
